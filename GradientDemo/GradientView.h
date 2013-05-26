@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  GradientView.h
 //  GradientDemo
 //
 //  Created by Tony Kong on 13-5-26.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-#import "GradientView.h"
-
-@interface ViewController : UIViewController
+@interface GradientView : UIView
 
 @end

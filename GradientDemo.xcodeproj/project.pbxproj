@@ -18,6 +18,7 @@
 		EAB34DE71752049200BFD538 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EAB34DE61752049200BFD538 /* Default-568h@2x.png */; };
 		EAB34DEA1752049200BFD538 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EAB34DE91752049200BFD538 /* ViewController.m */; };
 		EAB34DED1752049200BFD538 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EAB34DEB1752049200BFD538 /* ViewController.xib */; };
+		EAB34DF5175204A600BFD538 /* GradientView.m in Sources */ = {isa = PBXBuildFile; fileRef = EAB34DF4175204A600BFD538 /* GradientView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		EAB34DE81752049200BFD538 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		EAB34DE91752049200BFD538 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		EAB34DEC1752049200BFD538 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		EAB34DF3175204A600BFD538 /* GradientView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GradientView.h; sourceTree = "<group>"; };
+		EAB34DF4175204A600BFD538 /* GradientView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GradientView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +89,8 @@
 				EAB34DDF1752049200BFD538 /* AppDelegate.h */,
 				EAB34DE01752049200BFD538 /* AppDelegate.m */,
 				EAB34DE81752049200BFD538 /* ViewController.h */,
+				EAB34DF3175204A600BFD538 /* GradientView.h */,
+				EAB34DF4175204A600BFD538 /* GradientView.m */,
 				EAB34DE91752049200BFD538 /* ViewController.m */,
 				EAB34DEB1752049200BFD538 /* ViewController.xib */,
 				EAB34DD71752049200BFD538 /* Supporting Files */,
@@ -176,6 +181,7 @@
 				EAB34DDD1752049200BFD538 /* main.m in Sources */,
 				EAB34DE11752049200BFD538 /* AppDelegate.m in Sources */,
 				EAB34DEA1752049200BFD538 /* ViewController.m in Sources */,
+				EAB34DF5175204A600BFD538 /* GradientView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

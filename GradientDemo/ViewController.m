@@ -18,6 +18,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    GradientView *testView = [[GradientView alloc] initWithFrame:CGRectMake(10, 10, 200, 300)];
+    [self.view addSubview:testView];
 }
 
 - (void)didReceiveMemoryWarning
