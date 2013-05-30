@@ -88,12 +88,12 @@
 			children = (
 				EAB34DDF1752049200BFD538 /* AppDelegate.h */,
 				EAB34DE01752049200BFD538 /* AppDelegate.m */,
-				EAB34DE81752049200BFD538 /* ViewController.h */,
 				EAB34DF3175204A600BFD538 /* GradientView.h */,
 				EAB34DF4175204A600BFD538 /* GradientView.m */,
+				EAB34DD71752049200BFD538 /* Supporting Files */,
+				EAB34DE81752049200BFD538 /* ViewController.h */,
 				EAB34DE91752049200BFD538 /* ViewController.m */,
 				EAB34DEB1752049200BFD538 /* ViewController.xib */,
-				EAB34DD71752049200BFD538 /* Supporting Files */,
 			);
 			path = GradientDemo;
 			sourceTree = "<group>";
@@ -302,6 +302,7 @@
 				EAB34DF21752049200BFD538 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

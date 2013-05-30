@@ -47,6 +47,8 @@
     
     //开始绘制！
     CGContextDrawLinearGradient(context, gradient, start, end, options);
+    
+    CGGradientRelease(gradient);
 }
 
 @end

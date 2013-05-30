@@ -21,6 +21,7 @@
     
     GradientView *testView = [[GradientView alloc] initWithFrame:CGRectMake(10, 10, 200, 300)];
     [self.view addSubview:testView];
+    [testView release];
 }
 
 - (void)didReceiveMemoryWarning
